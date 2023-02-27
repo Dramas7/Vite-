@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .bg-brand-name-gradient {
+    background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
+  }
+
+  .bg-brand-img-gradient {
+    background: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
+  }
+}
