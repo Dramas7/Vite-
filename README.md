@@ -22,3 +22,7 @@
 
 ### tailwindcss  
 - 遵从[tailwindcss3.2.7](https://tailwindcss.com/)官方文档的建议，避免过多的使用类名对样式进行抽象，而是直接在模板中的html标签内写类名;
+
+## 启动方式  
+- `npm i`
+- `npm run dev`
